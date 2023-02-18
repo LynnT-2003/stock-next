@@ -21,6 +21,8 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "eslint": "^8.34.0"
+    "add": "^2.0.6",
+    "eslint": "^8.34.0",
+    "yarn": "^1.22.19"
   }
 }
